@@ -5,7 +5,7 @@ Here is Karlatemp's Maven Repo
 Locations
 ```text
 https://raw.githubusercontent.com/Karlatemp/karlatemp-repo/master/
-https://gyhhy.coding.net/p/karlatemp-mvn/d/karlatemp-mvn/git/raw/master
+https://gitee.com/Karlatemp/Karlatemp-repo/raw/master/
 ```
 
 ```text
